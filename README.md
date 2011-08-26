@@ -1,7 +1,7 @@
 Node.js for Haiku
 =================
 
-This is the branch for the [Haiku OS][hos] port of [Node.js][njs].
+This is the branch for the [Haiku OS][hos] port of [Node.js][njs].  Please note that development is happening on the "haiku" branch rather than the "master" branch.
 
 There is another counterpart project called [node-haiku][nhk] which aims to provide Node.js bindings for the Haiku API.  The eventual goal is to have bindings for Node.js (an evented language) to Haiku (an evented OS, originally called OpenBeOS).
 
